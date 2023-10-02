@@ -1,0 +1,2 @@
+What is a remote repository?
+A remote repository is hosted on a server, maybe using a service like GitHub or GitLab. This remote repository is a centralized repository from which to push, pull, fork, branch, etc - it's different from local repositories which are stored on your own computer. 
